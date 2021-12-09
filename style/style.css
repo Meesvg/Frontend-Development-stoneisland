@@ -1,0 +1,18 @@
+
+body
+
+{
+	background-image: url('images/stone.island.background.png');
+  position: sticky;
+}
+
+
+
+
+img {
+
+	width="250" height="250"
+	border-radius: 8px;
+
+	}
+
